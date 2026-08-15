@@ -1,2 +1,2 @@
 # glow-routine-anchor
-An anchor for Glow's routines
+An anchor for Scrim's routines
